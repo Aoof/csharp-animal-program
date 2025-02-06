@@ -1,0 +1,14 @@
+/home/aoof-deb/coding/college-lasalle/oop-class/activity4/bin/Debug/net9.0/activity4
+/home/aoof-deb/coding/college-lasalle/oop-class/activity4/bin/Debug/net9.0/activity4.deps.json
+/home/aoof-deb/coding/college-lasalle/oop-class/activity4/bin/Debug/net9.0/activity4.runtimeconfig.json
+/home/aoof-deb/coding/college-lasalle/oop-class/activity4/bin/Debug/net9.0/activity4.dll
+/home/aoof-deb/coding/college-lasalle/oop-class/activity4/bin/Debug/net9.0/activity4.pdb
+/home/aoof-deb/coding/college-lasalle/oop-class/activity4/obj/Debug/net9.0/activity4.GeneratedMSBuildEditorConfig.editorconfig
+/home/aoof-deb/coding/college-lasalle/oop-class/activity4/obj/Debug/net9.0/activity4.AssemblyInfoInputs.cache
+/home/aoof-deb/coding/college-lasalle/oop-class/activity4/obj/Debug/net9.0/activity4.AssemblyInfo.cs
+/home/aoof-deb/coding/college-lasalle/oop-class/activity4/obj/Debug/net9.0/activity4.csproj.CoreCompileInputs.cache
+/home/aoof-deb/coding/college-lasalle/oop-class/activity4/obj/Debug/net9.0/activity4.dll
+/home/aoof-deb/coding/college-lasalle/oop-class/activity4/obj/Debug/net9.0/refint/activity4.dll
+/home/aoof-deb/coding/college-lasalle/oop-class/activity4/obj/Debug/net9.0/activity4.pdb
+/home/aoof-deb/coding/college-lasalle/oop-class/activity4/obj/Debug/net9.0/activity4.genruntimeconfig.cache
+/home/aoof-deb/coding/college-lasalle/oop-class/activity4/obj/Debug/net9.0/ref/activity4.dll
